@@ -1,5 +1,5 @@
 [package]
-name = "riscv-asm"
+name = "riscv_asm"
 version = "0.6.0"
 repository = "https://github.com/rust-embedded/riscv"
 authors = ["The RISC-V Team <risc-v@teams.rust-embedded.org>"]
